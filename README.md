@@ -7,3 +7,10 @@ libnmap is a python toolkit for manipulating nmap. It currently offers the follo
   -- report: enables you to manipulate a parsed scan result and de/serialize scan results in a json format<br>
 
 https://libnmap.readthedocs.io/en/latest/objects/nmaphost.html
+
+Dependency:  python-libnmap 0.7.0
+
+Python NMAP library enabling you to start async nmap tasks, parse and compare/diff scan results
+https://pypi.org/project/python-libnmap/
+
+pip install python-libnmap
